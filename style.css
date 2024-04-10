@@ -1,0 +1,13 @@
+#titulo{
+    color: lime;
+}
+#explicaçao{
+    color:red;
+}
+#img{
+    background-size: cover;
+
+}
+canvas{
+    background-color: black;
+}
